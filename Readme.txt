@@ -16,4 +16,4 @@ Dont user our name "Team AnimalZ"
 THANK YOU
 
 
-©Team AnimalZ
+Copyright Team AnimalZ
